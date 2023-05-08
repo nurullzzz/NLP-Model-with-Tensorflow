@@ -9,12 +9,12 @@ Submission pertama pada kelas belajar pengembangan machine learning berupa proye
 - Harus menggunakan fungsi tokenizer.
 - Akurasi dari model minimal 75% pada train set dan validation set.
 
-#Penilaian
+# Penilaian
 Submission dinilai oleh reviewer dengan skala 1-5 berdasarkan dari parameter yang ada. Beberapa saran untuk mendapatkan nilai tinggi:
 - Akurasi dari model di atas 80%.
 - Mengimplementasikan callback.
 - Membuat plot loss dan akurasi pada saat training dan validation.
 
-Detail penilaian submission:
+Detail penilaian submission
 ![image](https://user-images.githubusercontent.com/75351301/236760863-4e54b3bd-d4f2-4b37-bb94-1009044263c3.png)
 ![image](https://user-images.githubusercontent.com/75351301/236760957-c0558256-96a5-4859-9d9b-016cdc54dc7c.png)
